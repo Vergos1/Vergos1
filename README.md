@@ -36,7 +36,7 @@
 - Version Control: **GIT(github,gitlab)**
 - Project Management: **Jira**
 
-![QR Code](image/qr-portfolio.svg)
+<img src="image/qr-portfolio.svg" alt="QR Code" width="100" height="100"/>
 
 > The QR code above redirects to my personal website (website not yet available).
 
