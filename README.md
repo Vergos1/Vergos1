@@ -7,6 +7,8 @@
 - 🌐 Portfolio: [websait](http://yanchuk.vinnytsia.ua/)
 - 💼 LinkedIn: [Ihor Yanchuk](https://www.linkedin.com/in/ihor-yanchuk-248a64268/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)
 - 🎮 GitHub: [Vergos1](https://github.com/Vergos1)
+<img src="image/qr-portfolio.svg" alt="QR Code" width="240" height="240"/>
+> The QR code above redirects to my personal website.
 
 ## Commercial Experience
 **Frontend Developer**
@@ -35,10 +37,6 @@
 - Design: **Figma, UI/UX, Photoshop**
 - Version Control: **GIT(github,gitlab)**
 - Project Management: **Jira**
-
-<img src="image/qr-portfolio.svg" alt="QR Code" width="240" height="240"/>
-
-> The QR code above redirects to my personal website (website not yet available).
 
 ---
 
