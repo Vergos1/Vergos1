@@ -2,14 +2,19 @@
 
 ![Ihor Yanchuk](image/my-image.png)
 
-## Contact Information
-- 📧 Email: [legendsmobajl4@gmail.com](mailto:legendsmobajl4@gmail.com)
-- 🌐 Portfolio: [websait](http://yanchuk.vinnytsia.ua/)
-- 💼 LinkedIn: [Ihor Yanchuk](https://www.linkedin.com/in/ihor-yanchuk-248a64268/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)
-- 🎮 GitHub: [Vergos1](https://github.com/Vergos1)
-  
-<img src="image/qr-portfolio.svg" alt="QR Code" width="240" height="240"/>
-> The QR code above redirects to my personal website.
+## Skills and Tools
+- Front-end development: **HTML, CSS, JavaScript, React.js**
+- Frameworks: **Bootstrap, Tailwind, Mantine (Basic), Material UI (Basic)**
+- Methodologies: **BEM methodology**
+- Preprocessors: **Sass/Scss, Less**
+- Build Tools: **Vite, Gulp, Webpack**
+- Package Managers: **npm/Yarn**
+- Others: **SEO, SPA, Ajax, Responsive layout, Cross-browser layout**
+
+## Additional Skills
+- Design: **Figma, UI/UX, Photoshop**
+- Version Control: **GIT(github,gitlab)**
+- Project Management: **Jira**
 
 ## Commercial Experience
 **Frontend Developer**
@@ -25,19 +30,17 @@
 - **New IT School** (2021-2022)
 - **VIHVS** (2019-2022)
 
-## Skills and Tools
-- Front-end development: **HTML, CSS, JavaScript, React.js**
-- Frameworks: **Bootstrap, Tailwind, Mantine (Basic), Material UI (Basic)**
-- Methodologies: **BEM methodology**
-- Preprocessors: **Sass/Scss, Less**
-- Build Tools: **Vite, Gulp, Webpack**
-- Package Managers: **npm/Yarn**
-- Others: **SEO, SPA, Ajax, Responsive layout, Cross-browser layout**
+## Contact Information
+- 📧 Email: [legendsmobajl4@gmail.com](mailto:legendsmobajl4@gmail.com)
+- 🌐 Portfolio: [websait](http://yanchuk.vinnytsia.ua/)
+- 💼 LinkedIn: [Ihor Yanchuk](https://www.linkedin.com/in/ihor-yanchuk-248a64268/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)
+- 🎮 GitHub: [Vergos1](https://github.com/Vergos1)
 
-## Additional Skills
-- Design: **Figma, UI/UX, Photoshop**
-- Version Control: **GIT(github,gitlab)**
-- Project Management: **Jira**
+<p align="center">
+  <img src="image/qr-portfolio.svg" alt="QR Code" width="240" height="240"/>
+  <br>
+  <small>The QR code above redirects to my personal website.</small>
+</p>
 
 ---
 
