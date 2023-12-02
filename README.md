@@ -1,6 +1,6 @@
 # Hello, I'm Ihor Yanchuk 👋
 
-![Ihor Yanchuk](https://via.placeholder.com/150)
+![Ihor Yanchuk](image/my-image.png)
 
 ## Contact Information
 - 📧 Email: [legendsmobajl4@gmail.com](mailto:legendsmobajl4@gmail.com)
