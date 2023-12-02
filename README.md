@@ -4,9 +4,8 @@
 
 ## Contact Information
 - 📧 Email: [legendsmobajl4@gmail.com](mailto:legendsmobajl4@gmail.com)
-- 🌐 Portfolio: [yanchukdev.ua](http://yanchukdev.ua) (website not yet available)
-- 📱 Phone: +380636847920
-- 💼 LinkedIn: [@yanchuk_1](https://www.linkedin.com/in/yanchuk_1)
+- 🌐 Portfolio: [websait](http://yanchuk.vinnytsia.ua/)
+- 💼 LinkedIn: [Ihor Yanchuk](https://www.linkedin.com/in/ihor-yanchuk-248a64268/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)
 - 🎮 GitHub: [Vergos1](https://github.com/Vergos1)
 
 ## Commercial Experience
@@ -25,21 +24,19 @@
 
 ## Skills and Tools
 - Front-end development: **HTML, CSS, JavaScript, React.js**
-- Design: **Responsive layout, Cross-browser layout**
 - Frameworks: **Bootstrap, Tailwind, Mantine (Basic), Material UI (Basic)**
 - Methodologies: **BEM methodology**
 - Preprocessors: **Sass/Scss, Less**
-- Libraries: **jQuery (Basic)**
 - Build Tools: **Vite, Gulp, Webpack**
 - Package Managers: **npm/Yarn**
-- Others: **SEO, SPA, Ajax**
+- Others: **SEO, SPA, Ajax, Responsive layout, Cross-browser layout**
 
 ## Additional Skills
 - Design: **Figma, UI/UX, Photoshop**
-- Version Control: **GIT**
+- Version Control: **GIT(github,gitlab)**
 - Project Management: **Jira**
 
-![QR Code](https://via.placeholder.com/100)
+![QR Code](image/qr-portfolio.svg)
 
 > The QR code above redirects to my personal website (website not yet available).
 
