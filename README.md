@@ -36,11 +36,9 @@
 - 💼 LinkedIn: [Ihor Yanchuk](https://www.linkedin.com/in/ihor-yanchuk-248a64268/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)
 - 🎮 GitHub: [Vergos1](https://github.com/Vergos1)
 
-<p align="center">
   <img src="image/qr-portfolio.svg" alt="QR Code" width="240" height="240"/>
   <br>
   <small>The QR code above redirects to my personal website.</small>
-</p>
 
 ---
 
