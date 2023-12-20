@@ -3,7 +3,7 @@
 ![Ihor Yanchuk](image/my-image.png)
 
 ## Skills and Tools
-- Front-end development: **HTML, CSS, JavaScript, React.js**
+- Front-end development: **HTML, CSS, JavaScript, React.js, Redux, Axios**
 - Frameworks: **Bootstrap, Tailwind, Mantine (Basic), Material UI (Basic)**
 - Methodologies: **BEM methodology**
 - Preprocessors: **Sass/Scss, Less**
