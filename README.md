@@ -11,7 +11,7 @@ I'm Igor, a Frontend Developer with a passion for building web experiences. With
 - Methodologies: **BEM methodology**
 - Build Tools: **Vite, Gulp, Webpack**
 - Package Managers: **npm/Yarn**
-- Others: **SEO, SPA, Ajax, Responsive layout, Cross-browser layout, MSW, **
+- Others: **SEO, SPA, Ajax, Responsive layout, Cross-browser layout, MSW**
 
 ## Additional Skills
 - Design: **Figma, UI/UX, Photoshop**
