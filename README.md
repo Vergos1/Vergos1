@@ -1,9 +1,12 @@
 # Hello, I'm Ihor Yanchuk 👋
 
 ![Ihor Yanchuk](image/my-image.png)
+---
+
+I'm Igor, a Frontend Developer with a passion for building web experiences. With over 1 year of experience in the commercial development sector, I'm well-versed in front-end technologies and UI/UX design principles. My commitment to quality and my ability to stay on top of industry trends ensure that I deliver the best possible experience to users.
 
 ## Skills and Tools
-- Front-end development: **HTML, CSS, JavaScript, Typescript, React.js, Redux toolkit, Axios**
+- Basic: **HTML, CSS, JavaScript, Typescript, React.js, Next.js, Redux toolkit, Axios**
 - Styling and components lib: **Bootstrap, Tailwind, Mantine UI, Material UI, Sass/Scss, styled components, css module**
 - Methodologies: **BEM methodology**
 - Build Tools: **Vite, Gulp, Webpack**
@@ -34,8 +37,3 @@
 - 🌐 Portfolio: [websait](http://yanchuk.vinnytsia.ua/)
 - 💼 LinkedIn: [Ihor Yanchuk](https://www.linkedin.com/in/ihor-yanchuk-248a64268/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)
 - 🎮 GitHub: [Vergos1](https://github.com/Vergos1)
-  
-
----
-
-I'm Igor, a Frontend Developer with a passion for building web experiences. With over 1.5 year of experience in the commercial development sector, I'm well-versed in front-end technologies and UI/UX design principles. My commitment to quality and my ability to stay on top of industry trends ensure that I deliver the best possible experience to users.
