@@ -4,12 +4,11 @@
 
 ## Skills and Tools
 - Front-end development: **HTML, CSS, JavaScript, Typescript, React.js, Redux toolkit, Axios**
-- Frameworks: **Bootstrap, Tailwind, Mantine UI, Material UI**
+- Styling and components lib: **Bootstrap, Tailwind, Mantine UI, Material UI, Sass/Scss, styled components, css module**
 - Methodologies: **BEM methodology**
-- Preprocessors: **Sass/Scss**
 - Build Tools: **Vite, Gulp, Webpack**
 - Package Managers: **npm/Yarn**
-- Others: **SEO, SPA, Ajax, Responsive layout, Cross-browser layout**
+- Others: **SEO, SPA, Ajax, Responsive layout, Cross-browser layout, MSW, **
 
 ## Additional Skills
 - Design: **Figma, UI/UX, Photoshop**
