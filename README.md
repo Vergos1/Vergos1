@@ -1,5 +1,4 @@
 # Hello, I'm Ihor Yanchuk 👋
----
 
 I'm Igor, a Frontend Developer with a passion for building web experiences. With over 1.5 year of experience in the commercial development sector, I'm well-versed in front-end technologies and UI/UX design principles. My commitment to quality and my ability to stay on top of industry trends ensure that I deliver the best possible experience to users.
 
