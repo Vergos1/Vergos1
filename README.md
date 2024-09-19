@@ -13,7 +13,7 @@ I'm Igor, a Frontend Developer with a passion for building web experiences. With
 ## Additional Skills
 - Design: **Figma, UI/UX, Photoshop**
 - Version Control: **GIT(github,gitlab)**
-- Project Management: **Jira**
+- Project Management: **Jira, Trello, Slack, Notion**
 
 ## Commercial Experience
 **Frontend Developer**
