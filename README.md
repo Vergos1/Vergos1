@@ -31,6 +31,5 @@ I'm Igor, a Frontend Developer with a passion for building web experiences. With
 
 ## Contact Information
 - 📧 Email: [legendsmobajl4@gmail.com](mailto:legendsmobajl4@gmail.com)
-- 🌐 Portfolio: [websait](http://yanchuk.vinnytsia.ua/)
 - 💼 LinkedIn: [Ihor Yanchuk](https://www.linkedin.com/in/ihor-yanchuk-248a64268/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)
 - 🎮 GitHub: [Vergos1](https://github.com/Vergos1)
