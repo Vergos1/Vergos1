@@ -23,6 +23,6 @@ less, styled-components,
 css-module**
 
 ## Contact Information
-- Email: [ihoryanchuk199@gmail.com](mailto:ihoryanchuk199@gmail.com)
-- LinkedIn: [Ihor Yanchuk](https://www.linkedin.com/in/ihor-yanchuk-248a64268/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)
-- Telegram: [Link](https://t.me/yanchuk_1)
+- [Email](mailto:ihoryanchuk199@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ihor-yanchuk-248a64268/edit/forms/intro/new/?profileFormEntryPoint=PROFILE_SECTION)
+- [Telegram](https://t.me/yanchuk_1)
