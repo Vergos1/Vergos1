@@ -10,18 +10,11 @@ experiences.
 
 ## Skills and Tools
 **FRONTEND:** JavaScript (ES6+), TypeScript, HTML, CSS, React, Next.js, React Native
-- **React.js, Next.js, React native**
-- **Redux toolkit, RTK-query, React-query, Axios**
-- **Bootstrap, Tailwind, Mantine UI, Material UI,
-Chakra UI**
-- **Firebase, Docker**
-- **StoryBook, MSW, react-chartjs-2,
-Formik, React Intl**
-- **KISS, DRY, YAGNI, SOLID**
-- **react-testing-library, jest**
-- **BEM methodology, sass,
-less, styled-components,
-css-module**
+**UI & Styling:** Tailwind CSS, CSS Modules, styled-components, Sass/SCSS, Less, BEM, Bootstrap,
+Mantine UI, Material UI, Chakra UI, shadcn/ui, Ant Design
+**State & Forms:** Redux Toolkit, RTK Query, React Query, Axios, Zustand, Formik, React Hook Form
+**Quality, Tooling & Analytics:** Jest, React Testing Library, MSW, Storybook, i18n, react-chartjs-2,
+GSAP, Husky, Firebase, Docker, GA4, Mixpanel, Meta Pixel, Sentry, KISS/DRY/YAGNI/SOLID
 
 ## Contact Information
 - [Email](mailto:ihoryanchuk199@gmail.com)
