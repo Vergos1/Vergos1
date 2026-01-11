@@ -9,12 +9,12 @@ performance optimization, and continuous improvement to deliver reliable and pol
 experiences.
 
 ## Skills and Tools
-**FRONTEND:** JavaScript (ES6+), TypeScript, HTML, CSS, React, Next.js, React Native
+**FRONTEND:** JavaScript (ES6+), TypeScript, HTML, CSS, React, Next.js, React Native<br />
 **UI & Styling:** Tailwind CSS, CSS Modules, styled-components, Sass/SCSS, Less, BEM, Bootstrap,
-Mantine UI, Material UI, Chakra UI, shadcn/ui, Ant Design
-**State & Forms:** Redux Toolkit, RTK Query, React Query, Axios, Zustand, Formik, React Hook Form
+Mantine UI, Material UI, Chakra UI, shadcn/ui, Ant Design<br />
+**State & Forms:** Redux Toolkit, RTK Query, React Query, Axios, Zustand, Formik, React Hook Form<br />
 **Quality, Tooling & Analytics:** Jest, React Testing Library, MSW, Storybook, i18n, react-chartjs-2,
-GSAP, Husky, Firebase, Docker, GA4, Mixpanel, Meta Pixel, Sentry, KISS/DRY/YAGNI/SOLID
+GSAP, Husky, Firebase, Docker, GA4, Mixpanel, Meta Pixel, Sentry, KISS/DRY/YAGNI/SOLID<br />
 
 ## Contact Information
 - [Email](mailto:ihoryanchuk199@gmail.com)
