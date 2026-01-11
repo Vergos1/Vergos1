@@ -9,7 +9,7 @@ performance optimization, and continuous improvement to deliver reliable and pol
 experiences.
 
 ## Skills and Tools
-- **FRONTEND:** JavaScript (ES6+), TypeScript, HTML, CSS, React, Next.js, React Native
+**FRONTEND:** JavaScript (ES6+), TypeScript, HTML, CSS, React, Next.js, React Native
 - **React.js, Next.js, React native**
 - **Redux toolkit, RTK-query, React-query, Axios**
 - **Bootstrap, Tailwind, Mantine UI, Material UI,
