@@ -1,14 +1,15 @@
 # Hello, I'm Ihor Yanchuk 👋
 
-I am a frontend developer with over 2.5 years of commercial experience specializing in building high quality,
-interactive web applications with a strong UI/UX focus. Over the years, I have taken on architectural
-responsibilities, carefully designing the structure and core functionality of applications. I have developed
-fairly large web applications from scratch, working closely with project managers, designers, and QA testers
-to ensure smooth communication and project consistency. I enjoy working with the latest technologies and
-am constantly striving to improve my skills, aiming to provide the best and most innovative solutions to users.
+I’m a developer with 2.5+ years of commercial experience building high-quality, user-focused web
+applications with a strong emphasis on UI/UX. I design and implement scalable application
+architecture, develop features end-to-end, and have experience delivering large products from
+scratch. I collaborate closely with product managers, designers, and QA to ensure clear
+communication, predictable delivery, and consistent quality. I focus on maintainable code,
+performance optimization, and continuous improvement to deliver reliable and polished user
+experiences.
 
 ## Skills and Tools
-- **Ecmascript, Typescript, HTML, CSS**
+- **FRONTEND:** JavaScript (ES6+), TypeScript, HTML, CSS, React, Next.js, React Native
 - **React.js, Next.js, React native**
 - **Redux toolkit, RTK-query, React-query, Axios**
 - **Bootstrap, Tailwind, Mantine UI, Material UI,
