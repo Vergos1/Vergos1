@@ -4,7 +4,7 @@
   <a href="mailto:ihoryanchuk199@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff&labelColor=000000&color=000000"/></a>
   <a href="https://www.linkedin.com/in/yanchuk-dev/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff&labelColor=000000&color=000000"/></a>
   <a href="https://t.me/yanchuk_1"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=ffffff&labelColor=000000&color=000000"/></a>
-  <a href="https://portfolio-v3-coral-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=000000&color=000000"/></a>
+  <!-- <a href="https://portfolio-v3-coral-theta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=ffffff&labelColor=000000&color=000000"/></a> -->
 </p>
 
 <p align="center">
